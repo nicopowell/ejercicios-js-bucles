@@ -1,4 +1,4 @@
-# Primeros ejercicios con Javascript
+# Ejercicios Javascript - Bucles
 
 ## Descripción
 
